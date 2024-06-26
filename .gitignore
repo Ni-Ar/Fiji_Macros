@@ -1,0 +1,18 @@
+# Log file
+*.log
+
+
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+
+AutoRun
+toolsets
+listManagement.txt
+StartupMacros.fiji.ijm
+
+Segmentations_Weka.ijm
+Train_Weka.ijm
+Combine_*
